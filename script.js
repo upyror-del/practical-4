@@ -1,0 +1,6 @@
+// script.js — навчальний скрипт для практичної роботи №4
+function greet(name) {
+  return `Привіт, ${name}! Це практична робота №4 з Git.`;
+}
+
+console.log(greet("студент КН-21"));
