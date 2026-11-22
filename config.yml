@@ -1,5 +1,5 @@
 app:
   name: my_project
   version: 1.0
-environment: development
+environment: production
 log_level: info
