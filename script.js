@@ -4,3 +4,4 @@ function greet(name) {
 }
 
 console.log(greet("студент КН-21"));
+// Цей рядок додано через веб-інтерфейс
